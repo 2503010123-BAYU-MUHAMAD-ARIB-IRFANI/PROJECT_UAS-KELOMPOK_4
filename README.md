@@ -4,7 +4,7 @@
 | 1 | Bayu Muhamad Arib Irfani | 2503010123 | (fitur bayu) |
 | 2 | Ade Sodik | 2503010113 | (fitur ade) |
 | 3 | Bimo Alviana Sofian | 2403010071 | (fitur bimo) |
-| 4 | Fajri | - | (fitur fajri) |
+| 4 | Fajri Prastya Permana | 2503010140 | (fitur fajri) |
 | 5 | Zofan Aryaguna | 2503010109 | (fitur zofan) |
 
 ## 📋 Deskripsi Proyek
