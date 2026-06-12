@@ -6,3 +6,8 @@
 | 3 | Bimo Alviana Sofian | 2403010071 | (fitur bimo) |
 | 4 | Fajri | - | (fitur fajri) |
 | 5 | Zofan Aryaguna | 2503010109 | (fitur zofan) |
+
+## 📋 Deskripsi Proyek
+Aplikasi berbasis C++ untuk mengelola sistem transportasi MRT/KRL, 
+mencakup manajemen stasiun, jadwal perjalanan, pencarian rute, 
+perpindahan jalur, dan data penumpang.
