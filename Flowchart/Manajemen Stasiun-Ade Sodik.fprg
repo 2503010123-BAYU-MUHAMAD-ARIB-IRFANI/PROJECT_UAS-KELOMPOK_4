@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Manajemen Stasiun-Ade Sodik"/>
+        <attribute name="authors" value="Hype G12"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-06-13 08:28:36 PM"/>
+        <attribute name="created" value="SHlwZSBHMTI7SFlQRUcxMjsyMDI2LTA2LTEzOzA4OjE1OjQ1IFBNOzIzNzU="/>
+        <attribute name="edited" value="SHlwZSBHMTI7SFlQRUcxMjsyMDI2LTA2LTEzOzA4OjI4OjM2IFBNOzE7MjQ4Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="pilihan" type="Integer" array="False" size=""/>
+            <assign variable="pilihan" expression="1"/>
+            <while expression="pilihan != 0">
+                <output expression="&quot;=== MANAJEMEN STASIUN ===&quot;" newline="True"/>
+                <output expression="&quot;1. Tambah Stasiun&quot;" newline="True"/>
+                <output expression="&quot;2. Tampilkan Semua Stasiun&quot;" newline="True"/>
+                <output expression="&quot;3. Cari Stasiun&quot;" newline="True"/>
+                <output expression="&quot;4. Hapus Stasiun&quot;" newline="True"/>
+                <output expression="&quot;0. Kembali&quot;" newline="True"/>
+                <input variable="pilihan"/>
+                <if expression="pilihan == 1">
+                    <then>
+                        <output expression="&quot;Tambah Stasiun&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <if expression="pilihan == 2">
+                            <then>
+                                <output expression="&quot;Tampilkan Semua Stasiun&quot;" newline="True"/>
+                            </then>
+                            <else>
+                                <if expression="pilihan == 3">
+                                    <then>
+                                        <output expression="&quot;Cari Stasiun&quot;" newline="True"/>
+                                    </then>
+                                    <else>
+                                        <if expression="pilihan == 4">
+                                            <then>
+                                                <output expression="&quot;Hapus Stasiun&quot;" newline="True"/>
+                                            </then>
+                                            <else/>
+                                        </if>
+                                    </else>
+                                </if>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
