@@ -1,6 +1,6 @@
 ## 👥 Anggota Kelompok 4
-| No | Nama | NIM | Fitur |Struktur Data|
-|----|------|-----|-------|
+| No | Nama | NIM | Fitur | Struktur Data |
+|----|------|-----|-------|---------------|
 | 1 | Bayu Muhamad Arib Irfani | 2503010123 | Data Penumpang | linkedList|
 | 2 | Ade Sodik | 2503010113 | Manajemen Stasiun |Linkedlist |
 | 3 | Bimo Alviana Sofian | 2403010071 | Manajemen Jadwal | Queue |
